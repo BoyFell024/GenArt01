@@ -2,7 +2,7 @@
 import './style.css';
 
 // Import mergeImages library
-import mergeImages from 'merge-images';
+// import mergeImages from 'merge-images';
 
 // Write code
 
