@@ -15,6 +15,8 @@ import mergeImages from 'merge-images';
 // appDiv.innerHTML = newImage;
 //appDiv.innerHTML = `<h1>JS Starter</h1>`;
 
+
+// Import MergeImg library
 import mergeImg from 'merge-img';
  
 mergeImg(['GA_Face1.png', 'GA_Ears1.jpg'])
